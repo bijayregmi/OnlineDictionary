@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2016, 9:54:14 PM
+    Author     : bijayregmi
+*/
+
+body{
+    
+    background-color: #F7F0F0;
+}
+
+h1{
+    margin: 0px;
+    
+    height: 60px;   
+    
+    color: #3E0404;
+    background-color: #F7F0F0;
+    font-size: 30pt;
+}
+#term {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    
+}
+
+
+#form{
+    
+    background-color: #F3E3E0;
+    border: 1px solid #F0C7BF  ;
+    padding-left: 10px;
+    
+}
+
+#input{
+    
+    
+    border: 5px solid white; 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1);
+    
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#submitBtn{
+    
+   
+   border-radius: 5px; 
+   width: 150px;
+   height: 40px;
+  
+   
+   font-size: 15pt;
+   font-family: sans-serif;
+ 
+}
+label{
+    
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#newText{
+    
+  
+    line-height: 2.0em;
+    background-color: #FCF0EE;  
+   
+    font-family: sans-serif;
+    margin:0px;
+    
+    padding-top: 15px;
+    
+}
+
+img{
+    
+   margin-right: 10px;
+    height: 23px;
+    width: 23px;
+}
+
+.show{
+    display: block;
+    color:#AA3939;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+footer{
+    
+    background-color: #F7F0F0;
+    font-family: sans-serif;
+   
+    font-style: italic;
+    font-size: 15px;
+    line-height: 40px;
+    
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    
+}
